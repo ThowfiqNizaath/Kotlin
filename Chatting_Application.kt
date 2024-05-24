@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.* 
 public var scanner = Scanner(System.`in`)
 fun main(){
     println("\nWelcome To ChatApp!")
